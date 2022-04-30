@@ -1,0 +1,84 @@
+Black-Scholes:
+
+Level 1 Cache: 935922187,279261196,901980752,278560013
+Read Percent: 96.3735%
+Write Percent: 99.7489%
+Number of Instructions: 1180540765
+
+Level 2 Cache: 33941435,701183,1073587,152814
+Read Percent: 3.16306%
+Write Percent: 21.7937%
+Number of Instructions: 1226401
+
+Bodytrack:
+
+Level 1 Cache: 2514864279,665148436,2443786541,662797541
+Read Percent: 97.1737%
+Write Percent: 99.6466%
+Number of Instructions: 3103830865
+
+Level 2 Cache: 71948482,2431532,71251188,2123644
+Read Percent: 99.0308%
+Write Percent: 87.3377%
+Number of Instructions: 73370270
+
+Cholesky:
+
+Level 1 Cache: 241820497,98237024,238671350,97816517
+Read Percent: 98.6977%
+Write Percent: 99.572%
+Number of Instructions: 336487867
+
+Level 2 Cache: 3149147,420507,2688329,157697
+Read Percent: 85.3669%
+Write Percent: 37.5016%
+Number of Instructions: 2846026
+
+Ferret:
+
+Level 1 Cache: 5689092170,5881507220,5653161008,5842925415
+Read Percent: 99.3684%
+Write Percent: 99.344%
+Number of Instructions: 9614780256
+
+Level 2 Cache: 246928283,106970713,205970137,103579641
+Read Percent: 83.4129%
+Write Percent: 96.8299%
+Number of Instructions: 299028808
+
+FFT:
+
+Level 1 Cache: 9240862,5226788,9170999,5164651
+Read Percent: 99.244%
+Write Percent: 98.8112%
+Number of Instructions: 14335650
+
+Level 2 Cache: 69863,62137,27090,19572
+Read Percent: 38.7759%
+Write Percent: 31.4981%
+Number of Instructions: 46662
+
+Fluidanimate:
+
+Level 1 Cache: 2494635324,367244621,2479992076,363679340
+Read Percent: 99.413%
+Write Percent: 99.0292%
+Number of Instructions: 2843671416
+
+Level 2 Cache: 14643248,3565281,5599386,274689
+Read Percent: 38.2387%
+Write Percent: 7.70455%
+Number of Instructions: 5874075
+
+LU:
+
+Level 1 Cache: 623218956,122431943,620140099,122379108
+Read Percent: 99.506%
+Write Percent: 99.9568%
+Number of Instructions: 742519207
+
+Level 2 Cache: 3078857,52835,3019844,35917
+Read Percent: 98.0833%
+Write Percent: 67.9796%
+Number of Instructions: 3055761
+

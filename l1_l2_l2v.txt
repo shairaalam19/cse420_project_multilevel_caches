@@ -1,0 +1,119 @@
+Black-Scholes:
+
+Level 1 Cache: 935922187,279261196,901822779,278555796
+Read Percent: 96.3566%
+Write Percent: 99.7474%
+Number of Instructions: 1180378575
+
+Level 2 Cache: 34099408,705400,1227364,156780
+Read Percent: 3.59937%
+Write Percent: 22.2257%
+Number of Instructions: 1384144
+
+L2 Victim Cache: 32872044,548620,71841,1342
+Read Percent: 0.218547%
+Write Percent: 0.244614%
+Number of Instructions: 73183
+
+Bodytrack:
+
+Level 1 Cache: 2516483717,665272494,2448537824,662699589
+Read Percent: 97.3%
+Write Percent: 99.6133%
+Number of Instructions: 3108423589
+
+Level 2 Cache: 68897092,2654995,68195311,2343507
+Read Percent: 98.9814%
+Write Percent: 88.2679%
+Number of Instructions: 70534327
+
+L2 Victim Cache: 703884,312152,155244,2342
+Read Percent: 22.0553%
+Write Percent: 0.750275%
+Number of Instructions: 157586
+
+Cholesky:
+
+Level 1 Cache: 241820497,98237024,238621523,97811421
+Read Percent: 98.6771%
+Write Percent: 99.5668%
+Number of Instructions: 336432944
+
+Level 2 Cache: 3198974,425603,2736599,162164
+Read Percent: 85.5462%
+Write Percent: 38.1022%
+Number of Instructions: 2898763
+
+L2 Victim Cache: 462375,263439,6439,1662
+Read Percent: 1.39259%
+Write Percent: 0.630886%
+Number of Instructions: 8101
+
+Ferret:
+
+Level 1 Cache: 5700402921,5860127685,5667837157,5823627852
+Read Percent: 99.4287%
+Write Percent: 99.3772%
+Number of Instructions: 9595519542
+
+Level 2 Cache: 207654237,87613565,164921410,84045539
+Read Percent: 79.4212%
+Write Percent: 95.9275%
+Number of Instructions: 241449583
+
+L2 Victim Cache: 46985145,4240023,58281,15614
+Read Percent: 0.124041%
+Write Percent: 0.368253%
+Number of Instructions: 73887
+
+FFT:
+
+Level 1 Cache: 9240862,5226788,9173619,5164747
+Read Percent: 99.2723%
+Write Percent: 98.813%
+Number of Instructions: 14338366
+
+Level 2 Cache: 67243,62041,24453,19428
+Read Percent: 36.3651%
+Write Percent: 31.3148%
+Number of Instructions: 43881
+
+L2 Victim Cache: 42790,42613,2134,3074
+Read Percent: 4.98715%
+Write Percent: 7.21376%
+Number of Instructions: 5208
+
+Fluidanimate:
+
+Level 1 Cache: 2494635324,367244621,2480064468,363680963
+Read Percent: 99.4159%
+Write Percent: 99.0296%
+Number of Instructions: 2843745431
+
+Level 2 Cache: 14570856,3563658,5527735,273046
+Read Percent: 37.9369%
+Write Percent: 7.66196%
+Number of Instructions: 5800781
+
+L2 Victim Cache: 9043121,3290612,236512,3035
+Read Percent: 2.61538%
+Write Percent: 0.0922321%
+Number of Instructions: 239547
+
+LU:
+
+Level 1 Cache: 623218962,122431948,620161974,122361764
+Read Percent: 99.5095%
+Write Percent: 99.9427%
+Number of Instructions: 742523738
+
+Level 2 Cache: 3056988,70184,2998393,53455
+Read Percent: 98.0832%
+Write Percent: 76.1641%
+Number of Instructions: 3051848
+
+L2 Victim Cache: 58595,16729,255,137
+Read Percent: 0.435191%
+Write Percent: 0.818937%
+Number of Instructions: 392
+
